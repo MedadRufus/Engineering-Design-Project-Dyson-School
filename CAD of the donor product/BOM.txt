@@ -1,0 +1,12 @@
+ITEM NO.	PART NUMBER	DESCRIPTION	material property	QTY.
+1	Main body	Outer shell of the whole air blower	ABS	1
+2	Mabuchi RS-385Sh-2270	12 V dc motor, that has a nominal rpm at max efficiency of 8170 RPM	N/A	1
+3	BS EN ISO 7045 - M2.5 x 6 - Z - 6N	screws to hold the motor to the body	Steel	2
+4	80 mm Impeller	Impeller with 12 vanes	ABS	1
+5	Brass couple	Acts as a couple between the motor shaft and the Impeller	Brass	1
+6	18650 Li-Ion battery	2000 mAh battery	Lithium	3
+7	KCD3-103	Rocker switch with on-off-on state	PA-66 nylon	1
+8	End cap	end covers over the top and bottom of the air blower	ABS	2
+9	Inner frame	Inner frame holding all the batteries and pcb together.	ABS	1
+10	Printed Circuit Board	PCB with all the electronics	fiber glass+electronics	1
+11	KSD9700 Bimetal Temperature Control Switch Thermostat 	Thermal cutoff to prevent overheating of batteries		1
